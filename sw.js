@@ -1,5 +1,5 @@
 // 앱 화면 파일을 휴대폰에 저장해 두는 작은 도우미 (데이터는 저장하지 않음)
-const CACHE = 'asung-confirm-v1';
+const CACHE = 'asung-confirm-v3';
 const SHELL = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png'];
 
 self.addEventListener('install', e => {

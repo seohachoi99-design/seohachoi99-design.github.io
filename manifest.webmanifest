@@ -1,8 +1,8 @@
 {
   "id": "./",
-  "name": "아성 자료확인 창구",
-  "short_name": "아성 확인창구",
-  "description": "회계법인 아성과 거래처가 통장 거래 확인 요청을 주고받는 창구",
+  "name": "테스트용",
+  "short_name": "테스트용",
+  "description": "거래처와 통장 거래 확인 요청을 주고받는 앱 (시범)",
   "lang": "ko",
   "start_url": "./",
   "scope": "./",
@@ -11,8 +11,23 @@
   "background_color": "#f6f7f9",
   "theme_color": "#2f5bd3",
   "icons": [
-    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
-    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
-    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
   ]
 }
